@@ -2,4 +2,6 @@ The aim of my project is to design an artificial intelligence supported product 
 STM32 PINOUT & CONFIGURATION section:
 ![image](https://github.com/user-attachments/assets/20db74ae-ae51-43fc-9b57-a71b31c87d77)
 On the Esp32 side the connections are made with pins G17 and G16.
+At the bottom is the screen where the forecast of the application is compared with the current production:
 
+![image](https://github.com/user-attachments/assets/cbf152aa-b8b3-4288-8b8c-f6e8b12756a1)
